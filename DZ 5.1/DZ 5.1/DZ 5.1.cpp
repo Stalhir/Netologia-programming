@@ -55,5 +55,7 @@ int main()
     cout << "Количество сторон: " << endl;
     cout << fig.get_name() << ": " << fig.get_sides_count() << endl;
     cout << trio.get_name() << ": " << trio.get_sides_count() << endl; 
-    cout << quad.get_name() << ": " << quad.get_sides_count() << endl;  
+    cout << quad.get_name() << ": " << quad.get_sides_count() << endl; 
+  
 } 
+
