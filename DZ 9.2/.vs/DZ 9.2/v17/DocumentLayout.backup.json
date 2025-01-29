@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\askoy\\source\\repos\\DZ 9.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10AA00DB-59A2-4854-9CCB-8E181873BEC2}|DZ 9.2\\DZ 9.2.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 9.2\\DZ 9.2\\DZ 9.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10AA00DB-59A2-4854-9CCB-8E181873BEC2}|DZ 9.2\\DZ 9.2.vcxproj|solutionrelative:DZ 9.2\\DZ 9.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DZ 9.2.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 9.2\\DZ 9.2\\DZ 9.2.cpp",
+              "RelativeDocumentMoniker": "DZ 9.2\\DZ 9.2.cpp",
+              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 9.2\\DZ 9.2\\DZ 9.2.cpp*",
+              "RelativeToolTip": "DZ 9.2\\DZ 9.2.cpp*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T22:23:26.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
