@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\EincorrectData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\EincorrectData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Quadrangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Quadrangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Rhomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Rhomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\EincorrectData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\EincorrectData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rectangle.h",
-              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Rectangle.h",
-              "RelativeDocumentMoniker": "DZ 6.3\\Rectangle.h",
-              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Rectangle.h",
-              "RelativeToolTip": "DZ 6.3\\Rectangle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-27T17:46:13.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Rhomb.h",
-              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Rhomb.h",
-              "RelativeDocumentMoniker": "DZ 6.3\\Rhomb.h",
-              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Rhomb.h",
-              "RelativeToolTip": "DZ 6.3\\Rhomb.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Title": "Triangle.h",
+              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Triangle.h",
+              "RelativeDocumentMoniker": "DZ 6.3\\Triangle.h",
+              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Triangle.h",
+              "RelativeToolTip": "DZ 6.3\\Triangle.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-27T17:47:51.153Z",
+              "WhenOpened": "2025-01-30T23:42:49.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Square.h",
-              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Square.h",
-              "RelativeDocumentMoniker": "DZ 6.3\\Square.h",
-              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Square.h",
-              "RelativeToolTip": "DZ 6.3\\Square.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Figure.h",
+              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Figure.h",
+              "RelativeDocumentMoniker": "DZ 6.3\\Figure.h",
+              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Figure.h",
+              "RelativeToolTip": "DZ 6.3\\Figure.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-27T17:46:14.646Z",
+              "WhenOpened": "2025-01-26T22:35:02.53Z",
               "EditorCaption": ""
             },
             {
@@ -87,14 +66,14 @@
               "RelativeDocumentMoniker": "DZ 6.3\\Quadrangle.h",
               "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Quadrangle.h",
               "RelativeToolTip": "DZ 6.3\\Quadrangle.h",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-27T17:16:59.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EincorrectData.h",
               "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\EincorrectData.h",
               "RelativeDocumentMoniker": "DZ 6.3\\EincorrectData.h",
@@ -107,26 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Figure.h",
-              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Figure.h",
-              "RelativeDocumentMoniker": "DZ 6.3\\Figure.h",
-              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Figure.h",
-              "RelativeToolTip": "DZ 6.3\\Figure.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-26T22:35:02.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Main.cpp",
               "RelativeDocumentMoniker": "DZ 6.3\\Main.cpp",
               "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\DZ 6.3\\Main.cpp",
               "RelativeToolTip": "DZ 6.3\\Main.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T18:04:36.735Z",
               "EditorCaption": ""

@@ -4,6 +4,9 @@
 
 class Figure
 {
+private: 
+   
+
 protected:
     int blocked = false; 
     int sides_count{ 0 };
@@ -11,19 +14,16 @@ protected:
     {
         this->sides_count = sides_count;
     }
+    
     Figure(int sides_count)
     {
         this->sides_count = sides_count;
      
-        try 
-        {
-            if (Check()==false) throw EincorrectData("Ошибка создания фигуры Причина: Неизвестна"); 
-        } 
-        catch (const EincorrectData& e) {
-            std::cout << e.what() << std::endl;
-          
-        } 
+       
+        if (Figure::Check()==false) throw EincorrectData("Ошибка создания фигуры Причина: Неизвестна"); 
+        
 
+       
             
         
     }
@@ -31,7 +31,7 @@ protected:
 
 public:
     int get_sides_count();
-    
+
 
     virtual void print_info();
    
