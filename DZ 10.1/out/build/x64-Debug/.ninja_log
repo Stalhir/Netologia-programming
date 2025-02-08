@@ -1,0 +1,5 @@
+# ninja log v6
+24	1423	7607313456871373	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	b6cfaba419cbbb3f
+1424	1622	7607313470868424	my_first_cmake_program.exe	b601b211fe6ca8c4
+7	1051	7607318616323137	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	b6cfaba419cbbb3f
+1052	1227	7607318626780619	my_first_cmake_program.exe	b601b211fe6ca8c4
