@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\askoy\\source\\repos\\DZ 6.3\\",
+  "WorkspaceRootPath": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 6.3\\DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Rhomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Rhomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\RAtriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\RAtriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Itriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Itriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Etriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Etriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,10 +35,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Rhomb.h",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Rhomb.h",
+              "RelativeDocumentMoniker": "DZ 6.3\\Rhomb.h",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Rhomb.h",
+              "RelativeToolTip": "DZ 6.3\\Rhomb.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T14:06:33.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RAtriangle.h",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\RAtriangle.h",
+              "RelativeDocumentMoniker": "DZ 6.3\\RAtriangle.h",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\RAtriangle.h",
+              "RelativeToolTip": "DZ 6.3\\RAtriangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T14:06:30.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Itriangle.h",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Itriangle.h",
+              "RelativeDocumentMoniker": "DZ 6.3\\Itriangle.h",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Itriangle.h",
+              "RelativeToolTip": "DZ 6.3\\Itriangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T14:06:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Etriangle.h",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Etriangle.h",
+              "RelativeDocumentMoniker": "DZ 6.3\\Etriangle.h",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Etriangle.h",
+              "RelativeToolTip": "DZ 6.3\\Etriangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T14:06:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 6.3\\DZ 6.3\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Main.cpp",
               "RelativeDocumentMoniker": "DZ 6.3\\Main.cpp",
-              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 6.3\\DZ 6.3\\Main.cpp",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 6.3\\DZ 6.3\\Main.cpp",
               "RelativeToolTip": "DZ 6.3\\Main.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

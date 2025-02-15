@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\askoy\\source\\repos\\DZ 7.2\\",
+  "WorkspaceRootPath": "C:\\Users\\askoy\\Desktop\\programming\\DZ 7.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CAB8C87-F92B-4A65-A734-5050F7253803}|DZ 7.2\\DZ 7.2.vcxproj|C:\\Users\\askoy\\source\\repos\\DZ 7.2\\DZ 7.2\\DZ 7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5CAB8C87-F92B-4A65-A734-5050F7253803}|DZ 7.2\\DZ 7.2.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 7.2\\DZ 7.2\\DZ 7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5CAB8C87-F92B-4A65-A734-5050F7253803}|DZ 7.2\\DZ 7.2.vcxproj|solutionrelative:DZ 7.2\\DZ 7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DZ 7.2.cpp",
-              "DocumentMoniker": "C:\\Users\\askoy\\source\\repos\\DZ 7.2\\DZ 7.2\\DZ 7.2.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 7.2\\DZ 7.2\\DZ 7.2.cpp",
               "RelativeDocumentMoniker": "DZ 7.2\\DZ 7.2.cpp",
-              "ToolTip": "C:\\Users\\askoy\\source\\repos\\DZ 7.2\\DZ 7.2\\DZ 7.2.cpp",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 7.2\\DZ 7.2\\DZ 7.2.cpp",
               "RelativeToolTip": "DZ 7.2\\DZ 7.2.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-23T21:49:19.368Z",
               "EditorCaption": ""

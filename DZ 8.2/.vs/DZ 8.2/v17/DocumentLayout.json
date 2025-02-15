@@ -1,12 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\askoy\\source\\repos\\DZ 8.2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\EincorrectData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B312B691-589B-4813-BD60-3E066E959E0D}|DZ 6.3\\DZ 6.3.vcxproj|solutionrelative:DZ 6.3\\EincorrectData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Main.cpp",
+              "RelativeDocumentMoniker": "DZ 6.3\\Main.cpp",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Main.cpp",
+              "RelativeToolTip": "DZ 6.3\\Main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T14:07:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figure.h",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Figure.h",
+              "RelativeDocumentMoniker": "DZ 6.3\\Figure.h",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Figure.h",
+              "RelativeToolTip": "DZ 6.3\\Figure.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T14:07:18.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Square.cpp",
+              "RelativeDocumentMoniker": "DZ 6.3\\Square.cpp",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Square.cpp",
+              "RelativeToolTip": "DZ 6.3\\Square.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T14:07:17.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "DZ 6.3\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Rectangle.cpp",
+              "RelativeToolTip": "DZ 6.3\\Rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T14:07:15.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parallelogram.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Parallelogram.cpp",
+              "RelativeDocumentMoniker": "DZ 6.3\\Parallelogram.cpp",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\Parallelogram.cpp",
+              "RelativeToolTip": "DZ 6.3\\Parallelogram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T14:07:10.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EincorrectData.cpp",
+              "DocumentMoniker": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\EincorrectData.cpp",
+              "RelativeDocumentMoniker": "DZ 6.3\\EincorrectData.cpp",
+              "ToolTip": "C:\\Users\\askoy\\Desktop\\programming\\DZ 8.2\\DZ 6.3\\EincorrectData.cpp",
+              "RelativeToolTip": "DZ 6.3\\EincorrectData.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T14:07:08.604Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
