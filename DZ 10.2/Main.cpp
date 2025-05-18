@@ -53,5 +53,6 @@ int main()
     cout << endl;
     Rh.print_info();
     cout << endl;
-
+    bool pause{};
+    cin >> pause;
 }
