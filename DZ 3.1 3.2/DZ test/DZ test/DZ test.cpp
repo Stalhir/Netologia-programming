@@ -26,12 +26,18 @@ public:
 
     smart_array& operator=(smart_array& other) //типо вроде можно ссылкой или надо... хуй знает
     {
-		//короче я понял надо очищать память у старой версии масива и выделять новую память для нового масива но типо того же
+        
+        this->arraySize = other.arraySize;
+        this->array_addIndex = other.array_addIndex;
+        delete[] this->smartArray;
+        smartArray = new int[this->arraySize];
+        
         for (int i = 0; i < this->arraySize; i++)
         {
             this->smartArray[i] = other.smartArray[i];
                 
         }
+        
         return *this;
     }
 
@@ -89,6 +95,7 @@ int main()
         arr = new_arr;
 
         std::cout << arr.get_element(3) << std::endl;
+        std::cout << new_arr.get_element(3) << std::endl;
     }
     catch (const std::exception& ex) {
         std::cout << ex.what() << std::endl;
