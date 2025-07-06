@@ -24,9 +24,9 @@ public:
         std::copy(other.smartArray, other.smartArray + arraySize, smartArray); 
     }
 
-    smart_array& operator=(smart_array other)
+    smart_array& operator=(smart_array& other) //типо вроде можно ссылкой или надо... хуй знает
     {
-
+		//короче я понял надо очищать память у старой версии масива и выделять новую память для нового масива но типо того же
         for (int i = 0; i < this->arraySize; i++)
         {
             this->smartArray[i] = other.smartArray[i];
