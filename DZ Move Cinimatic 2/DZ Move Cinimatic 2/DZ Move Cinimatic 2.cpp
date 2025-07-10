@@ -61,7 +61,6 @@ public:
 
        std::vector<int> numF = this->number;
        std::vector<int> numT = other.number;
-
        
        int maxLen = std::max(numF.size(), numT.size());
        
@@ -132,49 +131,16 @@ private:
     }
     void initialization()
     {
-        for (int i = 0; i < textnumber.size(); i++)
-        {
-            
-            switch (textnumber[i])
-            {
-            case '0':
-                number.push_back(0);
-                break;
-            case '1':
-                number.push_back(1);
-                break;
-            case '2':
-                number.push_back(2);
-                break;
-            case '3':
-                number.push_back(3);
-                break;
-            case '4':
-                number.push_back(4);
-                break;
-            case '5':
-                number.push_back(5);
-                break;
-            case '6':
-                number.push_back(6);
-                break;
-            case '7':
-                number.push_back(7);
-                break;
-            case '8':
-                number.push_back(8);
-                break;
-            case '9':
-                number.push_back(9);
-                break;
 
-            default:
-                
-                throw std::invalid_argument("Invalid argument. The argument must be a number. ");
-                break;
-            }
-            
+        number.reserve(textnumber.size());
+        for (char c : textnumber)
+        {
+            if (!std::isdigit(c))
+                throw std::invalid_argument("Invalid argument. The argument must be a number.");
+
+            number.push_back(c - '0');
         }
+    
     }
     std::string textnumber{};
     std::vector<int> number{};
@@ -190,8 +156,11 @@ std::ostream& operator<<(std::ostream& out, big_integer j) {
 
 int main()
 {
-    auto number1 = big_integer("114575");
-    auto number2 = big_integer("78524");
+    auto number1 = big_integer("192231413641232131234324243221332124324874567898765434567898765434567654334567654323456");
+    auto number2 = big_integer("732416728671232132132132345678902345678900987654323456789098765434567898765434567898765");
+    
+    
+
     auto result = number1 + number2;
     std::cout << result; // 193099
 }
