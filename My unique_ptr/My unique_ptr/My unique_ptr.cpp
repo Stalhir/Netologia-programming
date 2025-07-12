@@ -23,11 +23,22 @@ public:
      
     T* release()
     {
-        delete badPtr;
-        badPtr = nullptr;
-        return badPtr;
+        T* ptr = badPtr; 
+        badPtr = nullptr; 
+        return ptr;
     }
     
+    MyUnique_ptr(MyUnique_ptr&& other) noexcept : badPtr(std::move(other.badPtr)) { other.badPtr = nullptr;  }
+    
+    MyUnique_ptr& operator=(MyUnique_ptr&& other) noexcept
+    {
+        if (this != &other) {
+            delete badPtr;
+            this->badPtr = std::move(other.badPtr);
+            other.badPtr = nullptr;
+        }
+        return *this;
+    }
 
     T& operator*()
     {
@@ -51,5 +62,6 @@ int main()
     int a{10};
     MyUnique_ptr<int> natural(new int);
   
-
+    MyUnique_ptr<int> gej = std::move(natural);
+    
 }
