@@ -59,9 +59,5 @@ public:
 int main()
 {
 
-    int a{10};
-    MyUnique_ptr<int> natural(new int);
-  
-    MyUnique_ptr<int> gej = std::move(natural);
     
 }
