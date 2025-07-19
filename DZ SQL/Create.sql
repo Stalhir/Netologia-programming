@@ -20,6 +20,7 @@ CREATE TABLE IF NOT EXISTS Album(
 CREATE TABLE IF NOT EXISTS Track( 
  id SERIAL PRIMARY KEY,
  duration TIME not null,
+ name VARCHAR(60) not null,
  id_Album INTEGER REFERENCES Album(id)
 );
 
