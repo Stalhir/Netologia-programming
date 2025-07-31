@@ -76,8 +76,9 @@ int main()
 		cout << thr << " потоков ";
 		for(int j = 0; j < 4; j++)
 		{
-			a = vector<int>(elementCount *= 10, int{});
-			b = vector<int>(elementCount *= 10, int{});
+			a = vector<int>(elementCount, int{});
+			b = vector<int>(elementCount, int{});
+			elementCount *= 10;
 			ParallSumVectors(a, b, thr);
 			cout << "\t     ";
 		}
