@@ -61,7 +61,7 @@ void ProgresBar(int num, int steps)
     }
 }
 
-void AllProgresBar(int countProgBar, int steps)// тут все прогресс бары типо выводятся и потоки создаются 
+void AllProgresBar(int countProgBar, int steps)
 {
     cout << "#  ID          Progres Bar        Time" << endl;
     vector<thread> Thrs;
@@ -82,10 +82,6 @@ int main()
 {
     AllProgresBar(9, 18);
      
-    //cout << "Natural"; 
 
-
-    // Короче будут строчки в каждой строчки прогресс бар и они выводятся одновременно. В видо лекции в конце показывает слоняра наш
-    // Это всё имитация и расчёт тоже
 }
 
