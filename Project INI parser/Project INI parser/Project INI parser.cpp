@@ -162,6 +162,11 @@ T getvalue(string SectionName, string ValueName)
 	else { throw "No section with that name was found"; }
 }
 
+~ini_parser()
+{
+	file.close();
+}
+
 };
 
 
