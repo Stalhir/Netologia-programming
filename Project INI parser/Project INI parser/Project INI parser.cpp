@@ -139,27 +139,32 @@ void readFile()
 template<typename T>
 T getvalue(string SectionName, string ValueName)
 {
-	bool IsFind{ false };
-	std::map<string, string>::iterator findIt;
-	for(int i = 0; i < Sections.size(); i++)
-	{
-		if(Sections[i].name == SectionName)
-		{
-			if(Sections[i].var.find(ValueName) != Sections[i].var.end())
-			{
-				findIt = Sections[i].var.find(ValueName);
-				IsFind = true;
-			}
-			else{ throw "No varaible with that name was found"; }
-		}
+	auto sectionit = std::find_if(Sections.begin(), Sections.end(),
+		[&SectionName](const Section& sect) { return sect.name == SectionName; });
+
+	if (sectionit == Sections.end()) {
+		throw "No section with that name was found";
 	}
 
-	
-	if(IsFind == true)
-	{
-		return findIt->second;
+	auto varit = sectionit->var.find(ValueName);
+	if (varit == sectionit->var.end()) {
+		throw "No vareable with that name was found";
 	}
-	else { throw "No section with that name was found"; }
+	const string& result = varit->second;
+	
+	if constexpr (std::is_same_v<T, int>) {
+		return std::stoi(result);
+	}
+	else if constexpr (std::is_same_v<T, float>) {
+		return std::stof(result);
+	}
+	else if constexpr (std::is_same_v<T, string>) {
+		return result;
+	}
+	else
+	{
+		throw "Unsupported type";
+	}
 }
 
 ~ini_parser()
@@ -179,7 +184,7 @@ int main()
 	try
 	{
 		ini_parser parser("C:/Games/fille.ini");
-		cout << "\n test: " << parser.getvalue<string>("Section1", "var1"); 
+		cout << "\n test: " << parser.getvalue<double>("Section1", "var1"); 
 		
 
 
