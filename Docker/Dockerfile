@@ -1,8 +1,9 @@
-FROM ubuntu:16.04
+FROM ubuntu:20.04
 
 RUN apt update && \
     apt install -y build-essential clang && \
     rm -rf /var/lib/apt/lists/*
+
 
 COPY . /app
 
@@ -10,4 +11,4 @@ WORKDIR /app
 
 RUN ls -la
 
-RUN g++ -o myapp test.cpp
+RUN g++ -std=c++17 -o myapp unique_ptr.cpp
