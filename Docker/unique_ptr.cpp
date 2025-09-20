@@ -59,5 +59,5 @@ public:
 int main()
 {
 
-    
+    std::cout << "Docker work";
 }

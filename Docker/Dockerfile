@@ -10,3 +10,4 @@ WORKDIR /app
 
 RUN ls -la
 
+RUN g++ -o myapp test.cpp
