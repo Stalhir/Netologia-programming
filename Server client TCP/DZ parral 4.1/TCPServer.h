@@ -132,9 +132,9 @@ public:
 			}
 			else
 			{
-				m.lock();
+				
 				Clients.emplace_back(new_socket, clientAddr); // тут ошибка поток нельзя копирываТь ХОТЯ НЕТУ ТУТ ПОТОКАА 
-				m.unlock();
+			
 			}
 		}
 		closesocket(socket);
