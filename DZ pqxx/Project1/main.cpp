@@ -13,7 +13,7 @@ public:
 	ControlDB(pqxx::connection &Connect) : Con(Connect)
 	{
 	};
-    
+
 	void createDB()
 	{
 		pqxx::work tx(Con);
